@@ -6,7 +6,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
-# Load dataset (you can replace this with real SMS data later)
+# This can be replaced this with real SMS data later
 data = {
     "text": [
         "Congratulations! You've won a free ticket",
